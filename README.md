@@ -47,3 +47,7 @@ Riproducete il layout dell'immagine allegata utilizzando le tecniche viste stama
 ## 🔄 Requisiti GitHub  
 
 📌 **Numero minimo di push richiesti:** **8**  
+
+## Anteprima
+
+[-> PREVIEW <-](https://simonelupone.github.io/html-css-booleaner/)
