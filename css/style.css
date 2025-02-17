@@ -70,3 +70,26 @@ h1 {
 .main-list {
     padding: 10px;
 }
+
+table {
+    margin: 40px 0;
+    border-collapse: collapse;
+}
+
+thead {
+    background-color: #4ea1ff;
+    color: white;
+    text-align: left;
+}
+
+.col-25 {
+    width: 25%;
+}
+
+.col-50 {
+    width: 50%;
+}
+
+.blue-raw {
+    background-color: #65deff;
+}
