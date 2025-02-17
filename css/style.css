@@ -93,3 +93,33 @@ thead {
 .blue-raw {
     background-color: #65deff;
 }
+
+h3 {
+    margin-block: 20px;
+    color: gray;
+    font-size: 30px;
+}
+
+.article-suggest-1 {
+    width: 400px;
+    height: 300px;
+    margin-bottom: 20px;
+    background-image: url('../img/img/monitor.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.article-suggest-2 {
+    width: 400px;
+    height: 300px;
+    background-image: url('../img/img/graph.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.suggest-title {
+    padding: 20px 15px;
+    color: wheat;
+    font-size: 30px;
+    font-weight: 600;
+}
