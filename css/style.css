@@ -41,3 +41,15 @@ h1 {
 .data {
     font-size: 24px;
 }
+
+.photo-section {
+    margin-top: 40px;
+}
+
+.article-img {
+    height: 650px;
+}
+
+.caption {
+    font-size: 20px;
+}
