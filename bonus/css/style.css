@@ -14,11 +14,12 @@ header {
 #logo {
     width: 400px;
     height: 100px;
-    padding: 70px 0 0 30px;
+    padding-top: 70px;
+    margin: 0 260px;
 }
 
 main {
-    margin: 20px 20px;
+    margin: 20px 260px;
 }
 
 h1 {
@@ -47,7 +48,7 @@ h1 {
 }
 
 .article-img {
-    height: 650px;
+    height: 500px;
 }
 
 .caption {
