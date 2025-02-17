@@ -5,14 +5,39 @@
 }
 
 header {
-    height: 100px;
+    height: 180px;
     background-image: url('../img/img/pattern.png');
     background-size: 38%;
     background-color: #4ea1ff;
 }
 
 #logo {
-    width: 200px;
+    width: 400px;
     height: 100px;
-    padding: 40px 0 0 10px;
+    padding: 70px 0 0 30px;
+}
+
+main {
+    margin: 20px 10px;
+}
+
+h1 {
+    font-size: 75px;
+}
+
+.article-info {
+    color: rgb(156, 156, 156);
+}
+
+.writed-by {
+    font-size: 35px;
+}
+
+.writer {
+    font-weight: 600;
+    color: #65deff;
+}
+
+.data {
+    font-size: 24px;
 }
