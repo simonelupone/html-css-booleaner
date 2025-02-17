@@ -3,3 +3,16 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+header {
+    height: 100px;
+    background-image: url('../img/img/pattern.png');
+    background-size: 38%;
+    background-color: #4ea1ff;
+}
+
+#logo {
+    width: 200px;
+    height: 100px;
+    padding: 40px 0 0 10px;
+}
